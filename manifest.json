@@ -1,7 +1,8 @@
 {
   "manifest_version": 2,
   "name": "Lichess Blindfold Toggle",
-  "version": "0.1",
+  "version": "1.0",
+	"homepage_url": "https://github.com/brandon-gong/lichess-blindfold-toggle",
 
   "description": "A dead-simple extension to easily toggle blindfold mode for Lichess.",
 
